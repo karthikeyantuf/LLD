@@ -1,2 +1,5 @@
-package CarRental.Model;public enum RideStatus {
+package CarRental.Model;
+
+public enum RideStatus {
+    ACTIVE,END;
 }

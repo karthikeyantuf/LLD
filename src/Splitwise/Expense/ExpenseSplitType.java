@@ -1,7 +1,7 @@
-package Splitwise.Expense.Split;
+package Splitwise.Expense;
 
 public enum ExpenseSplitType {
     EQUAL,
     UNEQUAL,
-    PERCENTAGE
+    PERCENTAGE;
 }
